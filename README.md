@@ -20,6 +20,7 @@ git -c http.sslVerify=false clone  https://gitea.iitdh.ac.in:443/kabhijit/Bootst
 ###### Modifying
 To edit, I recomment the open-source  editor "Brackets" which has a "live-preview" mode, showing the changes as the HTML code is modified. Simple changes can be made by just replacing the sample text blocks in the html file (a rudimentary understanding of HTML is sufficient). For more complex changes to the layout a good understanding of bootstrap may be necessary. Colors and themes are defined in the accompanying css file.
 
+Edits may also be submitted via github's issue tracker / pull requests.
 
 #### Credits
 This template was inspired by and based on the simple and elegant bootstrap template [mavroudisv/plain-academic](https://github.com/mavroudisv/plain-academic)
